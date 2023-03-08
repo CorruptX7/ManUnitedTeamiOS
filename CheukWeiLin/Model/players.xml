@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<team>
+    <player>
+        <image>david.png</image>
+        <name>DE GEA</name>
+        <fullname>David De Gea</fullname>
+        <number>1</number>
+        <position>Goalkeeper</position>
+        <age>31</age>
+        <appearances>505</appearances>
+        <goals>0</goals>
+        <country>Spain</country>
+        <joined>29 Jun 2011</joined>
+        <quote>I don’t know who is the best goalkeeper in the world at the moment, but I want to be the best.</quote>
+        <kit-image>david_kit.png</kit-image>
+        <kit-link>https://store.manutd.com/en/manchester-united-home-goalkeeper-shirt-2022-23-long-sleeve-with-de-gea-1-printing/p-2303923579036472+z-939-1038614913?_ref=p-ALP:m-GRID:i-r0c0:po-0</kit-link>
+        <kit-price>€ 72.75</kit-price>
+        <kit-size>S | M | L | XL | XXL</kit-size>
+        <kit-fit>Slim</kit-fit>
+        <kit-shipping>Ships within 3 business days</kit-shipping>
+        <url>https://www.manutd.com/en/players-and-staff/detail/david-de-gea</url>
+    </player>
+    <player>
+        <image>tom.png</image>
+        <name>HEATON</name>
+        <fullname>Tom Heaton</fullname>
+        <number>22</number>
+        <position>Goalkeeper</position>
+        <age>36</age>
+        <appearances>1</appearances>
+        <goals>0</goals>
+        <country>England</country>
+        <joined>2 Jul 2021</joined>
+        <quote>I still feel I’ve got an awful lot to give and I’ve got the bit between my teeth.</quote>
+        <kit-image>tom_kit.png</kit-image>
+        <kit-link>https://store.manutd.com/en/manchester-united-home-goalkeeper-shirt-2022-23-long-sleeve-with-heaton-22-printing/p-1258257946810933+z-992-3647224528?_ref=p-ALP:m-GRID:i-r0c0:po-0</kit-link>
+        <kit-price>€ 72.75</kit-price>
+        <kit-size>S | M | L | XL | XXL</kit-size>
+        <kit-fit>Slim</kit-fit>
+        <kit-shipping>Ships within 3 business days</kit-shipping>
+        <url>https://www.manutd.com/en/players-and-staff/detail/tom-heaton</url>
+    </player>
+    <player>
+        <image>varane.png</image>
+        <name>VARANE</name>
+        <fullname>Raphael Varane</fullname>
+        <number>19</number>
+        <position>Defender</position>
+        <age>29</age>
+        <appearances>40</appearances>
+        <goals>1</goals>
+        <country>France</country>
+        <joined>14 Aug 2021</joined>
+        <quote>I came here because I wanted new emotions and it was exactly what I expected and bigger.</quote>
+        <kit-image>varane_kit.png</kit-image>
+        <kit-link>https://store.manutd.com/en/manchester-united-home-shirt-2022-23-with-r-varane-19-printing/p-9047148079598464+z-86-2099113708?_ref=p-ALP:m-GRID:i-r0c0:po-0</kit-link>
+        <kit-price>€ 72.75</kit-price>
+        <kit-size>S | M | L | XL | XXL</kit-size>
+        <kit-fit>Regular</kit-fit>
+        <kit-shipping>Ships within 3 business days</kit-shipping>
+        <url>https://www.manutd.com/en/players-and-staff/detail/raphael-varane</url>
+    </player>
+    <player>
+        <image>wan-bissaka.png</image>
+        <name>WAN-BISSAKA</name>
+        <fullname>Aaron Wan-Bissaka</fullname>
+        <number>24</number>
+        <position>Defender</position>
+        <age>25</age>
+        <appearances>144</appearances>
+        <goals>2</goals>
+        <country>England</country>
+        <joined>11 Aug 2019</joined>
+        <kit-image>wan-bissaka_kit.png</kit-image>
+        <kit-link>https://store.manutd.com/en/manchester-united-cup-home-shirt-2022-23-with-wan-bissaka-29-printing/p-1258707958014582+z-952-438656353?_ref=p-SRP:m-GRID:i-r0c2:po-2</kit-link>
+        <kit-price>€ 72.75</kit-price>
+        <kit-size>S | M | L | XL | XXL</kit-size>
+        <kit-fit>Regular</kit-fit>
+        <kit-shipping>Ships within 3 business days</kit-shipping>
+        <url>https://www.manutd.com/en/players-and-staff/detail/aaron-wan-bissaka</url>
+    </player>
+    <player>
+        <image>martinez.png</image>
+        <name>MARTINEZ</name>
+        <fullname>Lisandro Martinez</fullname>
+        <number>6</number>
+        <position>Defender</position>
+        <age>24</age>
+        <appearances>18</appearances>
+        <goals>0</goals>
+        <country>Argentina</country>
+        <joined>27 Jul 2022</joined>
+        <quote>I’ve worked so hard to get to this moment and, now that I’m here, I’m going to push myself even further.</quote>
+        <kit-image>martinez_kit.png</kit-image>
+        <kit-link>https://store.manutd.com/en/manchester-united-home-shirt-2022-23-with-martinez-6-printing/p-5625147176641734+z-83-2395942811?_ref=p-ALP:m-GRID:i-r0c0:po-0</kit-link>
+        <kit-price>€ 72.75</kit-price>
+        <kit-size>S | M | L | XL | XXL</kit-size>
+        <kit-fit>Regular</kit-fit>
+        <kit-shipping>Ships within 3 business days</kit-shipping>
+        <url>https://www.manutd.com/en/players-and-staff/detail/lisandro-martinez</url>
+    </player>
+    <player>
+        <image>maguire.png</image>
+        <name>MAGUIRE</name>
+        <fullname>Harry Maguire</fullname>
+        <number>5</number>
+        <position>Defender</position>
+        <age>29</age>
+        <appearances>152</appearances>
+        <goals>7</goals>
+        <country>England</country>
+        <joined>5 Aug 2019</joined>
+        <quote>It's an amazing club. It's a club I've always watched and I always looked up to when I was younger.</quote>
+        <kit-image>maguire_kit.png</kit-image>
+        <kit-link>https://store.manutd.com/en/manchester-united-home-shirt-2022-23-with-maguire-5-printing/p-1258704657713026+z-981-945753182?_ref=p-ALP:m-GRID:i-r0c0:po-0</kit-link>
+        <kit-price>€ 72.75</kit-price>
+        <kit-size>S | M | L | XL | XXL</kit-size>
+        <kit-fit>Regular</kit-fit>
+        <kit-shipping>Ships within 3 business days</kit-shipping>
+        <url>https://www.manutd.com/en/players-and-staff/detail/harry-maguire</url>
+    </player>
+    <player>
+        <image>dalot.png</image>
+        <name>DALOT</name>
+        <fullname>Diogo Dalot</fullname>
+        <number>20</number>
+        <position>Defender</position>
+        <age>23</age>
+        <appearances>83</appearances>
+        <goals>2</goals>
+        <country>Portugal</country>
+        <joined>6 Jun 2018</joined>
+        <quote>I will give everything for this club, for this shirt and, hopefully, help the club to win. That’s the most important thing.</quote>
+        <kit-image>dalot_kit.png</kit-image>
+        <kit-link>https://store.manutd.com/en/manchester-united-cup-home-shirt-2022-23-with-dalot-20-printing/p-8958366836451425+z-85-3258599802?_ref=p-ALP:m-GRID:i-r0c1:po-1</kit-link>
+        <kit-price>€ 72.75</kit-price>
+        <kit-size>S | M | L | XL | XXL</kit-size>
+        <kit-fit>Regular</kit-fit>
+        <kit-shipping>Ships within 3 business days</kit-shipping>
+        <url>https://www.manutd.com/en/players-and-staff/detail/diogo-dalot</url>
+    </player>
+    <player>
+        <image>shaw.png</image>
+        <name>SHAW</name>
+        <fullname>Luke Shaw</fullname>
+        <number>23</number>
+        <position>Defender</position>
+        <age>27</age>
+        <appearances>227</appearances>
+        <goals>3</goals>
+        <country>England</country>
+        <joined>27 Jun 2014</joined>
+        <quote>I’ve got the freedom to play and that gives me the confidence in what I want to do to help the team.</quote>
+        <kit-image>shaw_kit.png</kit-image>
+        <kit-link>https://store.manutd.com/en/manchester-united-home-shirt-2022-23-with-shaw-23-printing/p-3414691335939623+z-983-1086668051?_ref=p-ALP:m-GRID:i-r0c1:po-1</kit-link>
+        <kit-price>€ 72.75</kit-price>
+        <kit-size>S | M | L | XL | XXL</kit-size>
+        <kit-fit>Regular</kit-fit>
+        <kit-shipping>Ships within 3 business days</kit-shipping>
+        <url>https://www.manutd.com/en/players-and-staff/detail/luke-shaw</url>
+    </player>
+    <player>
+        <image>malacia.png</image>
+        <name>MALACIA</name>
+        <fullname>Tyrell Malacia</fullname>
+        <number>12</number>
+        <position>Defender</position>
+        <age>23</age>
+        <appearances>12</appearances>
+        <goals>0</goals>
+        <country>Netherlands</country>
+        <joined>5 Jul 2022</joined>
+        <quote>Whilst I know that I am still young and will continue to develop, I can promise the United fans that I will leave everything on the pitch every time I pull on the red shirt.</quote>
+        <kit-image>malacia_kit.png</kit-image>
+        <kit-link>https://store.manutd.com/en/manchester-united-home-shirt-2022-23-with-malacia-12-printing/p-7847691529282762+z-7-988018236?_ref=p-ALP:m-GRID:i-r0c0:po-0</kit-link>
+        <kit-price>€ 72.75</kit-price>
+        <kit-size>S | M | L | XL | XXL</kit-size>
+        <kit-fit>Regular</kit-fit>
+        <kit-shipping>Ships within 3 business days</kit-shipping>
+        <url>https://www.manutd.com/en/players-and-staff/detail/tyrell-malacia</url>
+    </player>
+    <player>
+        <image>eriksen.png</image>
+        <name>ERIKSEN</name>
+        <fullname>Christian Eriksen</fullname>
+        <number>14</number>
+        <position>Midfielder</position>
+        <age>30</age>
+        <appearances>17</appearances>
+        <goals>0</goals>
+        <country>Denmark</country>
+        <joined>15 Jul 2022</joined>
+        <quote>It feels good to be here. It's very special.</quote>
+        <kit-image>eriksen_kit.png</kit-image>
+        <kit-link>https://store.manutd.com/en/manchester-united-home-shirt-2022-23-with-eriksen-14-printing/p-2369691521754013+z-980-532000843?_ref=p-ALP:m-GRID:i-r0c0:po-0</kit-link>
+        <kit-price>€ 72.75</kit-price>
+        <kit-size>S | M | L | XL | XXL</kit-size>
+        <kit-fit>Regular</kit-fit>
+        <kit-shipping>Ships within 3 business days</kit-shipping>
+        <url>https://www.manutd.com/en/players-and-staff/detail/christian-eriksen</url>
+    </player>
+    <player>
+        <image>mctominay.png</image>
+        <name>MCTOMINAY</name>
+        <fullname>Scott McTominay</fullname>
+        <number>39</number>
+        <position>Midfielder</position>
+        <age>26</age>
+        <appearances>199</appearances>
+        <goals>18</goals>
+        <country>Scotland</country>
+        <joined>7 May 2017</joined>
+        <kit-image>mctominay_kit.png</kit-image>
+        <kit-link>https://store.manutd.com/en/manchester-united-home-shirt-2022-23-with-mctominay-39-printing/p-1281036802820738+z-987-534538918?_ref=p-SRP:m-GRID:i-r0c0:po-0</kit-link>
+        <kit-price>€ 72.75</kit-price>
+        <kit-size>S | M | L | XL | XXL</kit-size>
+        <kit-fit>Regular</kit-fit>
+        <kit-shipping>Ships within 3 business days</kit-shipping>
+        <url>https://www.manutd.com/en/players-and-staff/detail/scott-mctominay</url>
+    </player>
+    <player>
+        <image>casemiro.png</image>
+        <name>CASEMIRO</name>
+        <fullname>Casemiro</fullname>
+        <number>18</number>
+        <position>Midfielder</position>
+        <age>30</age>
+        <appearances>15</appearances>
+        <goals>1</goals>
+        <country>Brazil</country>
+        <joined>22 Aug 2022</joined>
+        <quote>To represent United is an honour and I am ready to give everything to help the team achieve our ambitions.</quote>
+        <kit-image>casemiro_kit.png</kit-image>
+        <kit-link>https://store.manutd.com/en/manchester-united-home-shirt-2022-23-with-casemiro-18-printing/p-3425704965518803+z-991-4276418537?_ref=p-ALP:m-GRID:i-r0c0:po-0</kit-link>
+        <kit-price>€ 72.75</kit-price>
+        <kit-size>S | M | L | XL | XXL</kit-size>
+        <kit-fit>Regular</kit-fit>
+        <kit-shipping>Ships within 3 business days</kit-shipping>
+        <url>https://www.manutd.com/en/players-and-staff/detail/casemiro</url>
+    </player>
+    <player>
+        <image>fred.png</image>
+        <name>FRED</name>
+        <fullname>Fred</fullname>
+        <number>17</number>
+        <position>Midfielder</position>
+        <age>29</age>
+        <appearances>172</appearances>
+        <goals>9</goals>
+        <country>Brazil</country>
+        <joined>21 Jun 2018</joined>
+        <quote>I will never forget how I felt the day I made my debut at Old Trafford. It was just fantastic.</quote>
+        <kit-image>fred_kit.png</kit-image>
+        <kit-link>https://store.manutd.com/en/manchester-united-home-shirt-2022-23-with-fred-17-printing/p-5658365791932930+z-83-448522148?_ref=p-ALP:m-GRID:i-r0c1:po-1</kit-link>
+        <kit-price>€ 72.75</kit-price>
+        <kit-size>S | M | L | XL | XXL</kit-size>
+        <kit-fit>Regular</kit-fit>
+        <kit-shipping>Ships within 3 business days</kit-shipping>
+        <url>https://www.manutd.com/en/players-and-staff/detail/fred</url>
+    </player>
+    <player>
+        <image>antony.png</image>
+        <name>ANTONY</name>
+        <fullname>Antony</fullname>
+        <number>21</number>
+        <position>Forward</position>
+        <age>22</age>
+        <appearances>11</appearances>
+        <goals>3</goals>
+        <country>Brazil</country>
+        <joined>1 Sep 2022</joined>
+        <quote>In Antony, Manchester United have a dynamic winger who can light up the right-hand side of our attack.</quote>
+        <kit-image>antony_kit.png</kit-image>
+        <kit-link>https://store.manutd.com/en/manchester-united-home-shirt-2022-23-with-antony-21-printing/p-1269815189366471+z-925-3412611048?_ref=p-ALP:m-GRID:i-r0c1:po-1</kit-link>
+        <kit-price>€ 72.75</kit-price>
+        <kit-size>S | M | L | XL | XXL</kit-size>
+        <kit-fit>Regular</kit-fit>
+        <kit-shipping>Ships within 3 business days</kit-shipping>
+        <url>https://www.manutd.com/en/players-and-staff/detail/antony</url>
+    </player>
+    <player>
+        <image>martial.png</image>
+        <name>MARTIAL</name>
+        <fullname>Anthony Martial</fullname>
+        <number>9</number>
+        <position>Forward</position>
+        <age>27</age>
+        <appearances>283</appearances>
+        <goals>85</goals>
+        <country>France</country>
+        <joined>12 Sep 2015</joined>
+        <kit-image>martial_kit.png</kit-image>
+        <kit-link>https://store.manutd.com/en/manchester-united-home-shirt-2022-23-with-martial-9-printing/p-1292473795540252+z-978-2180292135?_ref=p-SRP:m-GRID:i-r0c0:po-0</kit-link>
+        <kit-price>€ 72.75</kit-price>
+        <kit-size>S | M | L | XL | XXL</kit-size>
+        <kit-fit>Regular</kit-fit>
+        <kit-shipping>Ships within 3 business days</kit-shipping>
+        <url>https://www.manutd.com/en/players-and-staff/detail/anthony-martial</url>
+    </player>
+    <player>
+        <image>rashford.png</image>
+        <name>RASHFORD</name>
+        <fullname>Marcus Rashford</fullname>
+        <number>10</number>
+        <position>Forward</position>
+        <age>25</age>
+        <appearances>319</appearances>
+        <goals>100</goals>
+        <country>England</country>
+        <joined>1 Jul 2014</joined>
+        <quote>I have always been a United fan, so to be playing in the first team really is a dream come true.</quote>
+        <kit-image>rashford_kit.png</kit-image>
+        <kit-link>https://store.manutd.com/en/manchester-united-home-shirt-2022-23-with-rashford-10-printing/p-3414362480045297+z-930-880244118?_ref=p-ALP:m-GRID:i-r0c0:po-0</kit-link>
+        <kit-price>€ 72.75</kit-price>
+        <kit-size>S | M | L | XL | XXL</kit-size>
+        <kit-fit>Regular</kit-fit>
+        <kit-shipping>Ships within 3 business days</kit-shipping>
+        <url>https://www.manutd.com/en/players-and-staff/detail/marcus-rashford</url>
+    </player>
+    <player>
+        <image>sancho.png</image>
+        <name>SANCHO</name>
+        <fullname>Jadon Sancho</fullname>
+        <number>25</number>
+        <position>Forward</position>
+        <age>22</age>
+        <appearances>59</appearances>
+        <goals>10</goals>
+        <country>England</country>
+        <joined>23 Jul 2021</joined>
+        <kit-image>sancho_kit.png</kit-image>
+        <kit-link>https://store.manutd.com/en/manchester-united-home-shirt-2022-23-with-sancho-25-printing/p-2358471346151713+z-978-2839453056?_ref=p-SRP:m-GRID:i-r2c0:po-6</kit-link>
+        <kit-price>€ 72.75</kit-price>
+        <kit-size>S | M | L | XL | XXL</kit-size>
+        <kit-fit>Regular</kit-fit>
+        <kit-shipping>Ships within 3 business days</kit-shipping>
+        <url>https://www.manutd.com/en/players-and-staff/detail/jadon-sancho</url>
+    </player>
+    <player>
+        <image>garnacho.png</image>
+        <name>GARNACHO</name>
+        <fullname>Alejandro Garnacho</fullname>
+        <number>49</number>
+        <position>Forward</position>
+        <age>18</age>
+        <appearances>24</appearances>
+        <goals>2</goals>
+        <country>Argentina</country>
+        <joined>11 Sep 2020</joined>
+        <kit-image>garnacho_kit.png</kit-image>
+        <kit-link>https://store.manutd.com/en/manchester-united-home-shirt-2022-23-with-garnacho-49-printing/p-3492812990186472+z-89-765813356?_ref=p-SRP:m-GRID:i-r1c0:po-3</kit-link>
+        <kit-price>€ 72.75</kit-price>
+        <kit-size>S | M | L | XL | XXL</kit-size>
+        <kit-fit>Regular</kit-fit>
+        <kit-shipping>Ships within 3 business days</kit-shipping>
+        <url>https://www.manutd.com/en/players-and-staff/detail/alejandro-garnacho-mens-team</url>
+    </player>
+</team>
+
+
